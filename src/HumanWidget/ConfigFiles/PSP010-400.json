@@ -1,0 +1,41 @@
+{
+
+	"default": 
+	{
+		"resolution": {"w": 1280, "h": 800},
+		"framerate": 25,
+		"mode": "LRD_HD"
+	},
+	
+	"resolution":
+	[
+		{"w": 640, "h": 400},
+		{"w": 1280, "h": 800}
+	],
+	
+	"framerate":
+	[
+	   25,
+	   20,
+	   30,
+	   5
+	],
+	
+	"mode":
+	[
+		"LR",
+		"LD",
+		"LRD",
+		"LR_HD",
+		"LD_HD",
+		"LRD_HD"
+	],
+	
+	"disparity":
+	{
+		"type": 96,
+		"bpp": 16
+	}
+	
+}
+ 

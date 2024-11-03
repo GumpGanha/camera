@@ -1,0 +1,25 @@
+{
+  "nodeNum": 3,
+  "constrains": [
+    {
+      "startIndex": 0,
+      "endIndex": 1,
+      "distance": 50.00
+    },
+    {
+      "startIndex": 0,
+      "endIndex": 2,
+      "distance": 91.27
+    },
+    {
+      "startIndex": 1,
+      "endIndex": 2,
+      "distance": 65.00
+    }
+
+  ],
+  "judgerThresh": 5,
+  "epipolarThresh": 2,
+  "minDepth": 500,
+  "maxDepth": 1500
+}
